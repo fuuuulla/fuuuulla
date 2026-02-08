@@ -5,10 +5,10 @@
 ---
 
 ## 🌷 About Me  
-🌱 I’m currently learning **React**  
-🚀 I’m currently working on **Italian Sneakers Project**  
-💬 Ask me about **HTML, CSS, JavaScript, PHP, Java**  
-⚡ Fun fact: I love clean UI & soft colors  
+🌸 Currently learning **React**  
+💼 Working on modern web projects  
+💬 Feel free to ask me about **HTML, CSS, JavaScript, PHP, Java & WordPress**  
+✨ Passionate about clean UI, soft colors & elegant design
 
 ---
 
@@ -31,6 +31,5 @@
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=fuuuulla&icon=5&color=6)
 
 ✨ *Made with love & code* 💕
